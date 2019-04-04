@@ -1,0 +1,5 @@
+<resources>
+    <string name="reactNativeCodePush_androidDeploymentKey" moduleConfig="true"></string>
+    <string name="app_name">song_RN</string>
+    <string name="title_activity_main5">Main5Activity</string>
+</resources>
